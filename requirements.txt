@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+faiss-cpu
+opencv-python
+pdfplumber
+nltk
+numpy
+pillow
